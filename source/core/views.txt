@@ -102,4 +102,4 @@ restrictions mentioned in this page:
        | :method:`db.collection.find()`
        | :method:`db.collection.findOne()`
        | :method:`db.collection.count()`
-       | :method:`db.collection.distinct()`
+      
